@@ -10,7 +10,12 @@ console.clear();
 */
 
 // --v-- write your code here --v--
-
+const title = "The TrashPandas are among you";
+const text =
+  "The area has recently been invaded by many raccoons. The raccoons have quickly become unpopular roommates and are very unpopular. They can be really unpleasant contemporaries who are not so easy to get rid of.";
+let number = 23;
+const user = "HorstWaldemar";
+const isReported = true;
 // --^-- write your code here --^--
 
 /*
@@ -18,5 +23,10 @@ console.clear();
 */
 
 // --v-- write your code here --v--
-
+number++;
+console.log(title);
+console.log(text);
+console.log(number);
+console.log(user);
+console.log(isReported);
 // --^-- write your code here --^--
